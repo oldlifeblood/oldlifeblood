@@ -8,17 +8,70 @@
 </div>
 <h1 align="center">Hi there, I'm Ilya!</h1>
 <h3 align="center">A wine lover and a C/C++ programmer from Russia 🇷🇺</h3>
-<h3>My stack:</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
-<h3>My projects:</h3>
 
-<hr>
+---
+
+### About Me
+
+I'm currently pursuing a technical secondary vocational education while studying at School 21. Initially, I started with front-end development, specifically website layout design. Over the past year, I have been immersed in the world of programming at School 21, honing my skills in C and now delving into C++. In addition, I have experience working with databases, particularly Postgres, and possess strong skills in system administration and bash scripting.
+
+### My Skills
+
+- **Programming Languages:**
+  - C: Proficient in writing efficient and optimized code.
+  - C++: Currently expanding my knowledge and skills.
+  - JavaScript, HTML, CSS: Experience with front-end development and website design.
+- **Databases:**
+  - PostgreSQL: Experience in database design, management, and optimization.
+- **System Administration:**
+  - Bash Scripting: Automating tasks and managing systems.
+  - Linux: Proficient in using and administering Linux systems.
+- **Tools and Technologies:**
+  - Git: Version control and collaboration.
+  - Docker: Containerization and orchestration.
+
+### My Projects
+
+#### [Project 1: CNC Automation Tool](https://github.com/oldlifeblood/project1)
+A tool designed to automate CNC machine operations using G-code. This project includes a user-friendly interface for operators and features for optimizing tool paths and managing machine configurations.
+
+- **Technologies Used:** C, Bash, G-code
+- **Key Features:**
+  - Automated generation of G-code from user inputs.
+  - Real-time monitoring and adjustment of CNC machine operations.
+  - Integration with PostgreSQL for storing and retrieving machining data.
+
+#### [Project 2: Web Layouts](https://github.com/oldlifeblood/project2)
+A collection of responsive web layouts and components developed during my front-end development training. These layouts are designed to be visually appealing and functionally robust across various devices and screen sizes.
+
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Key Features:**
+  - Responsive design for various screen sizes.
+  - Clean and modern UI components.
+  - Modular and reusable code structure.
+
+#### [Project 3: System Administration Scripts](https://github.com/oldlifeblood/project3)
+A repository of bash scripts created for automating routine system administration tasks, improving efficiency, and ensuring system reliability.
+
+- **Technologies Used:** Bash, Linux
+- **Key Features:**
+  - Automated backups and system updates.
+  - Network configuration and monitoring.
+  - User management and system security.
+
+### Education
+
+- **Technical Secondary Vocational Education:** Currently pursuing.
+- **School 21:** More than a year of intensive programming education.
+
+### Contact Me
+
+<div align="center">
+  <a href="https://t.me/oldlifeblood"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://vk.com/oldlifeblood"><img src="https://img.shields.io/badge/-VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+  <a href="https://github.com/oldlifeblood"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
+
+---
+
+Feel free to reach out to me for collaboration, project ideas, or just to chat about tech and wine!
