@@ -6,33 +6,32 @@
   <a href="https://vk.com/oldlifeblood"><img src="https://img.shields.io/badge/-VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
   <a href="https://github.com/oldlifeblood"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
-<h1 align="center">Hi there, I'm Ilya!</h1>
-<h3 align="center">C/C++ programmer from Russia 🇷🇺</h3>
+<h1 align="center">Привет! Меня зовут Илья!</h1>
+<h3 align="center">Я junior программист С++</h3>
 
 ---
 
-### About Me
+### О себе
 
-I'm currently pursuing a technical secondary vocational education while studying at School 21. Initially, I started with front-end development, specifically website layout design. Over the past year, I have been immersed in the world of programming at School 21, honing my skills in C and now delving into C++. In addition, I have experience working with databases, particularly Postgres, and possess strong skills in system administration and bash scripting.
+В настоящее время я получаю среднее профессиональное образование и дополнительно учусь в school 21 от сбера. Изначально начинал с разработки програм на C, в частности, собственной реализаций существующих библиотек, затем перешел к изучению С++. Последние 1,5 года я продолжаю оттачивать свои навыки в C++, продолжая реализовывать библиотеки и создавая программы на основе QT. Кроме того, у меня есть опыт работы с базами данных, в частности с Postgres. Тажкже обладаю навыками системного администрирования систем Linux и написания сценариев на bash.
 
-### My Skills
+### Мой стэк
 
 - **Programming Languages:**
-  - C: Proficient in writing efficient and optimized code.
-  - C++: Currently expanding my knowledge and skills.
-  - JavaScript, HTML, CSS: Experience with front-end development and website design.
+  - C: Владею навыками написания эффективного и оптимизированного кода.
+  - C++: В настоящее время расширяю свои знания и навыки.
 - **Databases:**
-  - PostgreSQL: Experience in database design, management, and optimization.
+  - PostgreSQL: Опыт проектирования, управления и оптимизации баз данных.
 - **System Administration:**
-  - Bash Scripting: Automating tasks and managing systems.
-  - Linux: Proficient in using and administering Linux systems.
+  - Bash : Автоматизация задач и управление системами.
+  - Linux: Опытный пользователь Linux-систем и их администрирование.
 - **Tools and Technologies:**
-  - Git: Version control and collaboration.
-  - Docker: Containerization and orchestration.
+  - Git: Контроль версий и совместная работа.
+  - СICD: Опыт автоматизация развертывания
 
-- **Technical Secondary Vocational Education:** Currently pursuing.
-- **School 21:** More than a year of intensive programming education.
+- **Техническое средне-специальное образование:** В процессе обучения.
+- **School 21:** Более 1.5 интенсивного обучения программированию в школе от сбера.
 
 ---
 
-Feel free to reach out to me for collaboration, project ideas, or just to chat about tech!
+Готов к любому сотрудничеству!
