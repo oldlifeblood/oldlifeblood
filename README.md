@@ -7,7 +7,7 @@
   <a href="https://github.com/oldlifeblood"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 <h1 align="center">Привет! Меня зовут Илья!</h1>
-<h3 align="center">Я junior программист С++</h3>
+<h3 align="center">Я junior программист С++/QT</h3>
 
 ---
 
